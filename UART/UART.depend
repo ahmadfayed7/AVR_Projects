@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1547508257 source:e:\projects\avr projects\uart\fuse.c
+	<avr/io.h>
+

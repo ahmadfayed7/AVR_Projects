@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547266952 source:d:\projects\avr projects\timer_normal_mode\fuse.c
+	<avr/io.h>
+
+1547268342 source:d:\projects\avr projects\timer_normal_mode\main.c
+	<avr/io.h>
+

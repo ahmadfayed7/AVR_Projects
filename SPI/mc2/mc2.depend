@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547562229 source:e:\projects\avr projects\spi\mc2\fuse.c
+	<avr/io.h>
+
+1547563527 source:e:\projects\avr projects\spi\mc2\main.c
+	<avr/io.h>
+

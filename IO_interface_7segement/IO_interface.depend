@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1547224478 source:d:\projects\avr projects\io_interface\fuse.c
+	<avr/io.h>
+
+1547227809 source:d:\projects\avr projects\io_interface\main.c
+	<avr/io.h>
+	<util/delay.h>
+
+1547224478 source:d:\projects\avr projects\io_interface_7segement\fuse.c
+	<avr/io.h>
+
+1547229957 source:d:\projects\avr projects\io_interface_7segement\main.c
+	<avr/io.h>
+	<util/delay.h>
+

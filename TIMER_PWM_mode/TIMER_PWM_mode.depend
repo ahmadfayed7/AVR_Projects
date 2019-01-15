@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1547272030 source:d:\projects\avr projects\timer_pwm_mode\fuse.c
+	<avr/io.h>
+

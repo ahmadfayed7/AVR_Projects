@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547420086 source:e:\projects\avr projects\keypad_with_7segemt\fuse.c
+	<avr/io.h>
+
+1547425017 source:e:\projects\avr projects\keypad_with_7segemt\main.c
+	<avr/io.h>
+

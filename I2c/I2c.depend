@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547585858 source:e:\projects\avr projects\i2c\fuse.c
+	<avr/io.h>
+
+1547585915 source:e:\projects\avr projects\i2c\main.c
+	<avr/io.h>
+	<util/delay.h>
+

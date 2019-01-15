@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547232161 source:d:\projects\avr projects\external_interrupt\fuse.c
+	<avr/io.h>
+
+1547238601 source:d:\projects\avr projects\external_interrupt\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+

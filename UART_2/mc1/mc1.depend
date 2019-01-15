@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1547510889 source:e:\projects\avr projects\uart_2\mc1\fuse.c
+	<avr/io.h>
+
+1547511143 source:e:\projects\avr projects\uart_2\mc1\keypad.c
+	"keypad.h"
+
+1547514224 e:\projects\avr projects\uart_2\mc1\keypad.h
+	<avr/io.h>
+	<util/delay.h>
+
+1547514051 source:e:\projects\avr projects\uart_2\mc1\main.c
+	"keypad.h"
+

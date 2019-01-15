@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547562140 source:e:\projects\avr projects\spi\mc1\fuse.c
+	<avr/io.h>
+
+1547564624 source:e:\projects\avr projects\spi\mc1\main.c
+	<avr/io.h>
+	<util/delay.h>
+

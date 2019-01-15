@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1547268980 source:d:\projects\avr projects\timer_crc_mode\fuse.c
+	<avr/io.h>
+
